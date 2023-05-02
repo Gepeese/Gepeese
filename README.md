@@ -14,6 +14,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Salvador-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Salvador-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="right" alt="Gab-pic" height="150" style="border-radius:50px;"
+src="https://user-images.githubusercontent.com/125311016/235806368-4f567ca7-7850-480e-8dfa-8133e149d93d.jpeg">
   </div>
   
   ##
