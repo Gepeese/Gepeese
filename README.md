@@ -1,9 +1,10 @@
-### Olá, eu sou o Gabriel Salvador! Bem Vindos! 👋
+> <h1> Olá, Bem-Vindos ao meu perfil! Espero que Gostem! 👋😁</h1>
+> <hr>
+> <p> • Me chamo Gabriel Pereira Salvador, mas podem me chamar apenas de Salvador! Atualmente estou cursando o ensino médio profissionalizante na área de TI, realizo também um curso a parte onde estudo sobre HTML3, CSS3, JavaScript. Busco sempre a melhor forma para resolver um problema, de forma ágil e eficiente!
+> 
+> • Em meu perfil aqui no github, você poderá navegar entre meus projetos e conhecer um pouquinho dos meu trabalhos e aprendizados! Fiquem a vontade para sugestões e críticas!</p>
 
-
-- 🔭 Cursando Informática
-- 🌱 Estudando Front-end
-- 😄 Pronouns: Ele/Dele
+<h1> Meus Status! 📍</h1>
 
 <div style="display: inline_block"><br>
 <a href="https://github.com/gepeese/github-readme-stats">
@@ -22,7 +23,9 @@
 src="https://user-images.githubusercontent.com/125311016/235806368-4f567ca7-7850-480e-8dfa-8133e149d93d.jpeg">
   </div>
   
-  ##
+  
+  
+  <h1> Contatos Pessoais 📞</h1>
   
   <div>
   
@@ -32,6 +35,26 @@ src="https://user-images.githubusercontent.com/125311016/235806368-4f567ca7-7850
    </a>
   
   </div>
+  
+  <h2> Agradecimentos! 🤝</h2>
+  • Muito Obrigado pela atenção e carinho, espero vê-lo novamente em breve!
+  Abraços!!
+  
+  <div style="display: inline_block"><br>
+ <img align="center" alt="gif" height="150em" style="border-radius:50px;"
+src="https://user-images.githubusercontent.com/125311016/235810559-d0dcd064-d000-4bae-9c6d-6185d49b1830.gif">
+  <img align="center" alt="gif" height="150em" style="border-radius:50px;"
+src="https://user-images.githubusercontent.com/125311016/235811208-38e19070-c5b9-45d1-b81e-8ac03261d473.gif">
+ </div>
+ <br>
+ 
+ <p>
+ <i> - Salvador!<i>
+</p>
+
+
+
+  
   
   <!-- (https://github.com/gepeese/gepeese/blob/output/github-contribution-grid-snake.svg) -->
   
