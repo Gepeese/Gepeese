@@ -1,6 +1,6 @@
  <h1> Olá, Bem-Vindos ao meu perfil! Espero que Gostem! 👋😁</h1>
  <hr>
-<p> • Me chamo Gabriel Pereira Salvador, mas podem me chamar apenas de Salvador! Atualmente estou cursando o ensino médio profissionalizante na área de TI, realizo também um curso a parte onde estudo sobre HTML3, CSS3, JavaScript. Busco sempre a melhor forma para resolver um problema, de forma ágil e eficiente!
+<p> • Me chamo Gabriel Pereira Salvador, mas podem me chamar apenas de Salvador! Atualmente estou cursando Engenharia da computação na SATC, realizo também um curso a parte onde estudo sobre HTML3, CSS3, JavaScript. Busco sempre a melhor forma para resolver um problema, de forma ágil e eficiente!
  
  • Em meu perfil aqui no github, você poderá navegar entre meus projetos e conhecer um pouquinho dos meu trabalhos e aprendizados! Fiquem a vontade para sugestões e críticas!</p>
 
